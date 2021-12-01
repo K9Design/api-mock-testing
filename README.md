@@ -1,10 +1,10 @@
 # API testing with Testing Library and Mock Service Worker
 
-This react project connects to the open https://ghibliapi.herokuapp.com/ API and tests the the projects API handling. It tests that it can handle the
+This react project connects to the open https://ghibliapi.herokuapp.com/ API and tests the the projects API handling. It tests that it can handle
 
 - a typical data response
-- 500 status code
-- 418 status code (with custom page feedback)
+- a 500 status code
+- a 418 status code (with custom page feedback)
 
 ### Requirement:
 
