@@ -9,9 +9,7 @@ function MovieDisplay() {
   }, [])
 
   const getMovieData = async () => {
-    console.log("run once");
     const results = await axios.get("https://ghibliapi.herokuapp.com/films");
-    console.log("response: ", results);
     setMovieData(results.data);
   }
 
