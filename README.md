@@ -30,3 +30,9 @@ npm install
 ```bash
 npm start
 ```
+
+#### To test it:
+
+```bash
+npm test
+```
