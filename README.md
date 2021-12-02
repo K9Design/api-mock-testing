@@ -6,6 +6,8 @@ This react project connects to the open https://ghibliapi.herokuapp.com/ API and
 - a 500 status code
 - a 418 status code (with custom page feedback)
 
+The focus being on the testing rather than the actual app (which is pretty minimal)
+
 ### Requirement:
 
 - Node (stable) v17.0.2
