@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.608e5e85.chunk.js",
-    "main.js.map": "/static/js/main.608e5e85.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.38d06ab0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.38d06ab0.js.map",
-    "static/js/2.f99a1804.chunk.js": "/static/js/2.f99a1804.chunk.js",
-    "static/js/2.f99a1804.chunk.js.map": "/static/js/2.f99a1804.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.f99a1804.chunk.js.LICENSE.txt": "/static/js/2.f99a1804.chunk.js.LICENSE.txt"
+    "main.css": "/api-mock-testing/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/api-mock-testing/static/js/main.608e5e85.chunk.js",
+    "main.js.map": "/api-mock-testing/static/js/main.608e5e85.chunk.js.map",
+    "runtime-main.js": "/api-mock-testing/static/js/runtime-main.7f23bb3e.js",
+    "runtime-main.js.map": "/api-mock-testing/static/js/runtime-main.7f23bb3e.js.map",
+    "static/js/2.f99a1804.chunk.js": "/api-mock-testing/static/js/2.f99a1804.chunk.js",
+    "static/js/2.f99a1804.chunk.js.map": "/api-mock-testing/static/js/2.f99a1804.chunk.js.map",
+    "index.html": "/api-mock-testing/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/api-mock-testing/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f99a1804.chunk.js.LICENSE.txt": "/api-mock-testing/static/js/2.f99a1804.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.38d06ab0.js",
+    "static/js/runtime-main.7f23bb3e.js",
     "static/js/2.f99a1804.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.608e5e85.chunk.js"
